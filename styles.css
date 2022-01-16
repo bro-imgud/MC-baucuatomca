@@ -219,7 +219,7 @@ a:hover {
   -webkit-border-radius: 50px;
   -moz-border-radius: 50px;
   border-radius: 50px;
-  top: 50%;
+  top: 0%;
 }
 .huhu:hover .hoverBtn:before, .huhu:hover .hoverBtn:after {
   opacity: 1;
